@@ -11,7 +11,7 @@ I'm Faiz Azizan, a seasoned Digital Marketing and Analytics Specialist with over
 - 👯 I’m looking to collaborate on innovative digital marketing projects and data-driven business strategies.
 - 🤔 I’m looking for help with integrating AI-driven analytics into marketing campaigns.
 - 💬 Ask me about digital marketing, data analytics, SEO, and how to leverage tools like Python, SQL, and PowerBI for business growth.
-- 📫 How to reach me: [faiz.azizan@gmail.com](mailto:faiz.azizan@gmail.com), [LinkedIn](https://www.linkedin.com/in/faizazizan), [Twitter](https://x.com/fzzzan)
+- 📫 How to reach me: [faiz.azizan@gmail.com](mailto:faizazizanxyz@gmail.com), [LinkedIn](https://www.linkedin.com/in/faizazizan), [Twitter](https://x.com/fzzzan)
 - ⚡ Fun fact: I have successfully managed digital campaigns that have generated six-figure monthly sales with minimal acquisition costs.
 
 ---
